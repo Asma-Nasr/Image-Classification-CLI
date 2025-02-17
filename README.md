@@ -1,6 +1,6 @@
 # Image Classification CLI
 
-This project provides a command-line interface (CLI) for classifying images using TensorFlow. It leverages a pre-trained model to efficiently categorize images based on the specified parameters.
+This project provides a command-line interface (CLI) for classifying images using TensorFlow. It leverages a pre-trained model (VGG16) to efficiently categorize images based on the specified parameters.
 
 ## Installation
 
